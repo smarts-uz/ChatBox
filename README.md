@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Messenger Demo App](https://github.com/RTippin/messenger)
 
 ![Preview](public/examples/image1.png?raw=true)
@@ -120,3 +121,6 @@ $  php artisan queue:work --queue=messenger,messenger-bots
 
 ### Sending documents and images, hovering over options / reactions
 ![Preview](public/examples/image6.png?raw=true)
+=======
+# ChatBox
+>>>>>>> remotes/origin/main
